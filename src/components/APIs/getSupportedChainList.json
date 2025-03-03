@@ -1,0 +1,470 @@
+{
+  "1": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "rpc": "https://rpc.ankr.com/eth",
+    "explorer": {
+      "tx": "https://etherscan.io/tx/",
+      "address": "https://etherscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://cn.etherscan.com/tx/",
+      "address": "https://cn.etherscan.com/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+    "networkType": "MAINNET"
+  },
+  "10": {
+    "name": "Optimism",
+    "symbol": "OP",
+    "rpc": "https://mainnet.optimism.io",
+    "explorer": {
+      "tx": "https://optimistic.etherscan.io/tx/",
+      "address": "https://optimistic.etherscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://optimistic.etherscan.io/tx/",
+      "address": "https://optimistic.etherscan.io/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png",
+    "networkType": "MAINNET"
+  },
+  "14": {
+    "name": "Flare",
+    "symbol": "FLR",
+    "rpc": "https://flare-api.flare.network/ext/C/rpc",
+    "explorer": {
+      "tx": "https://flare-explorer.flare.network/tx/",
+      "address": "https://flare-explorer.flare.network/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://flare-explorer.flare.network/tx/",
+      "address": "https://flare-explorer.flare.network/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/28624/small/FLR-icon200x200.png",
+    "networkType": "MAINNET"
+  },
+  "25": {
+    "name": "Cronos",
+    "symbol": "CRO",
+    "rpc": "https://evm-cronos.crypto.org",
+    "explorer": {
+      "tx": "https://cronoscan.com/tx/",
+      "address": "https://cronoscan.com/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://cronoscan.com/tx/",
+      "address": "https://cronoscan.com/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/7310/small/cro_token_logo.png",
+    "networkType": "MAINNET"
+  },
+  "40": {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "rpc": "https://rpc1.us.telos.net/evm",
+    "explorer": {
+      "tx": "https://www.teloscan.io/tx/",
+      "address": "https://www.teloscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://www.teloscan.io/tx/",
+      "address": "https://www.teloscan.io/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/7588/small/TLOS_200.png",
+    "networkType": "MAINNET"
+  },
+  "56": {
+    "name": "BNB CHAIN",
+    "symbol": "BNB",
+    "rpc": "https://bsc-dataseed1.binance.org/",
+    "explorer": {
+      "tx": "https://bscscan.com/tx/",
+      "address": "https://bscscan.com/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://bscscan.com/tx/",
+      "address": "https://bscscan.com/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png",
+    "networkType": "MAINNET"
+  },
+  "61": {
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "rpc": "https://www.ethercluster.com/etc",
+    "explorer": {
+      "tx": "https://blockscout.com/etc/mainnet/tx/",
+      "address": "https://blockscout.com/etc/mainnet/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://blockscout.com/etc/mainnet/tx/",
+      "address": "https://blockscout.com/etc/mainnet/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/453/small/ethereum-classic-logo.png",
+    "networkType": "MAINNET"
+  },
+  "137": {
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "rpc": "https://rpc-mainnet.matic.network",
+    "explorer": {
+      "tx": "https://polygonscan.com/tx/",
+      "address": "https://polygonscan.com/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://polygonscan.com/tx/",
+      "address": "https://polygonscan.com/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/4713/small/matic___polygon.jpg",
+    "networkType": "MAINNET"
+  },
+  "250": {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "rpc": "https://rpc.fantom.network",
+    "explorer": {
+      "tx": "https://ftmscan.com/tx/",
+      "address": "https://ftmscan.com/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://ftmscan.com/tx/",
+      "address": "https://ftmscan.com/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
+    "networkType": "MAINNET"
+  },
+  "1030": {
+    "name": "Conflux Network",
+    "symbol": "CFX",
+    "rpc": "https://evm.confluxrpc.com",
+    "explorer": {
+      "tx": "https://evm.confluxscan.io/tx/",
+      "address": "https://evm.confluxscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://evm.confluxscan.io/tx/",
+      "address": "https://evm.confluxscan.io/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/13079/small/3vuYMbjN.png",
+    "networkType": "MAINNET"
+  },
+  "1284": {
+    "name": "Moonbeam",
+    "symbol": "GLMR",
+    "rpc": "https://rpc.api.moonbeam.network",
+    "explorer": {
+      "tx": "https://moonscan.io/tx/",
+      "address": "https://moonscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://moonscan.io/tx/",
+      "address": "https://moonscan.io/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/22459/small/glmr.png",
+    "networkType": "MAINNET"
+  },
+  "1285": {
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "rpc": "https://rpc.moonriver.moonbeam.network",
+    "explorer": {
+      "tx": "https://moonriver.moonscan.io/tx/",
+      "address": "https://moonriver.moonscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://moonriver.moonscan.io/tx/",
+      "address": "https://moonriver.moonscan.io/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/17984/small/9285.png",
+    "networkType": "MAINNET"
+  },
+  "4689": {
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "rpc": "https://babel-api.mainnet.iotex.io",
+    "explorer": {
+      "tx": "https://iotexscan.io/tx/",
+      "address": "https://iotexscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://iotexscan.io/tx/",
+      "address": "https://iotexscan.io/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/3334/small/iotex-logo.png",
+    "networkType": "MAINNET"
+  },
+
+  "9001": {
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "rpc": "https://eth.bd.evmos.org:8545",
+    "explorer": {
+      "tx": "https://evm.evmos.org/tx/",
+      "address": "https://evm.evmos.org/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://evm.evmos.org/tx/",
+      "address": "https://evm.evmos.org/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/24023/small/logo-orange.png",
+    "networkType": "MAINNET"
+  },
+  "10001": {
+    "name": "EthereumPoW",
+    "symbol": "ETHW",
+    "rpc": "https://mainnet.ethereumpow.org",
+    "explorer": {
+      "tx": "https://www.oklink.com/en/ethw/tx/",
+      "address": "https://www.oklink.com/en/ethw/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://www.oklink.com/en/ethw/tx/",
+      "address": "https://www.oklink.com/en/ethw/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/26997/small/logo-clear.png",
+    "networkType": "MAINNET"
+  },
+  "32659": {
+    "name": "Fusion",
+    "symbol": "FSN",
+    "rpc": "https://mainnet.fusionnetwork.io",
+    "explorer": {
+      "tx": "https://fsnscan.com/tx/",
+      "address": "https://fsnscan.com/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://fsnscan.com/tx/",
+      "address": "https://fsnscan.com/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/2515/small/fusion-token-logo.jpg",
+    "networkType": "MAINNET"
+  },
+  "42161": {
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "rpc": "https://arb-mainnet.g.alchemy.com/v2/u04Uw5dp98OohbK6fylEVaEd2OD2Rxaj",
+    "explorer": {
+      "tx": "https://arbiscan.io/tx/",
+      "address": "https://arbiscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://arbiscan.io/tx/",
+      "address": "https://arbiscan.io/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/16547/small/arb.jpg",
+    "networkType": "MAINNET"
+  },
+  "42220": {
+    "name": "Celo",
+    "symbol": "CELO",
+    "rpc": "https://forno.celo.org",
+    "explorer": {
+      "tx": "https://explorer.celo.org/tx/",
+      "address": "https://explorer.celo.org/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://explorer.celo.org/tx/",
+      "address": "https://explorer.celo.org/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/11090/small/icon-celo-CELO-color-500.png",
+    "networkType": "MAINNET"
+  },
+  "43114": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "rpc": "https://api.avax.network/ext/bc/C/rpc",
+    "explorer": {
+      "tx": "https://snowtrace.io/tx/",
+      "address": "https://snowtrace.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://snowtrace.io/tx/",
+      "address": "https://snowtrace.io/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
+    "networkType": "MAINNET"
+  },
+  "1313161554": {
+    "name": "Aurora",
+    "symbol": "ETH",
+    "rpc": "https://mainnet.aurora.dev",
+    "explorer": {
+      "tx": "https://aurorascan.dev/tx/",
+      "address": "https://aurorascan.dev/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://aurorascan.dev/tx/",
+      "address": "https://aurorascan.dev/address/"
+    },
+    "logoUrl": "https://assets.coingecko.com/coins/images/20582/small/aurora.jpeg",
+    "networkType": "MAINNET"
+  },
+  "1116": {
+    "name": "Coreum",
+    "symbol": "CORE",
+    "rpc": "https://full-node-pluto.testnet-1.coreum.dev:26657",
+    "explorer": {
+      "tx": "https://explorer.coreum.com/coreum/transactions/",
+      "address": "https://explorer.coreum.com/coreum/accounts/"
+    },
+    "explorer_cn": {
+      "tx": "https://explorer.coreum.com/coreum/transactions/",
+      "address": "https://explorer.coreum.com/coreum/accounts/"
+    },
+    "logoUrl": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg",
+    "networkType": "MAINNET"
+  },
+
+  "88888": {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://chiliscan.com/tx/",
+      "address": "https://chiliscan.com/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://chiliscan.com/tx/",
+      "address": "https://chiliscan.com/address/"
+    },
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png",
+    "networkType": "MAINNET"
+  },
+
+  "8453": {
+    "name": "Base",
+    "symbol": "BASE",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://basescan.org/tx/",
+      "address": "https://basescan.org/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://basescan.org/tx/",
+      "address": "https://basescan.org/address/"
+    },
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/27789.png",
+    "networkType": "MAINNET"
+  },
+  "81457": {
+    "name": "Blast",
+    "symbol": "BLAST",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://blastscan.io/tx/",
+      "address": "https://blastscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://blastscan.io/tx/",
+      "address": "https://blastscan.io/address/"
+    },
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/28480.png",
+    "networkType": "MAINNET"
+  },
+  "361": {
+    "name": "Theta",
+    "symbol": "THETA",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://explorer.thetatoken.org/txs/",
+      "address": "https://explorer.thetatoken.org/account/"
+    },
+    "explorer_cn": {
+      "tx": "https://explorer.thetatoken.org/txs/",
+      "address": "https://explorer.thetatoken.org/account/"
+    },
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png",
+    "networkType": "MAINNET"
+  },
+  "534353": {
+    "name": "Scroll Network",
+    "symbol": "SCRL",
+    "rpc": "https://alpha-rpc.scroll.io/l2",
+    "explorer": {
+      "tx": "https://scrollscan.com/tx/",
+      "address": "https://scrollscan.com/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://scrollscan.com/tx/",
+      "address": "https://scrollscan.com/address/"
+    },
+    "logoUrl": "https://scrollscan.com/assets/scroll/images/svg/logos/token-secondary-light.svg?v=24.12.4.2",
+    "networkType": "MAINNET"
+  },
+  "5000": {
+    "name": "Mantle",
+    "symbol": "MNT",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://explorer.mantle.xyz/tx/",
+      "address": "https://explorer.mantle.xyz/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://explorer.mantle.xyz/tx/",
+      "address": "https://explorer.mantle.xyz/address/"
+    },
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png",
+    "networkType": "MAINNET"
+  },
+  "66": {
+    "name": "Okt",
+    "symbol": "OKT",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://www.oklink.com/oktc/tx/",
+      "address": "https://www.oklink.com/oktc/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://www.oklink.com/oktc/tx/",
+      "address": "https://www.oklink.com/oktc/address/"
+    },
+    "logoUrl": "https://static.oklink.com/cdn/assets/imgs/234/8A836F174073E0BA.png?x-oss-process=image/format,webp/resize,w_72,h_72,type_6/ignore-error,1",
+    "networkType": "MAINNET"
+  },
+  "16718": {
+    "name": "AirDao",
+    "symbol": "AMB",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://airdao.io/explorer/tx/",
+      "address": "https://airdao.io/explorer/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://airdao.io/explorer/tx/",
+      "address": "https://airdao.io/explorer/address/"
+    },
+    "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2081.png",
+    "networkType": "MAINNET"
+  },
+  "6001": {
+    "name": "BounceBit",
+    "symbol": "BB",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://bbscan.io/tx/",
+      "address": "https://bbscan.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://bbscan.io/tx/",
+      "address": "https://bbscan.io/address/"
+    },
+    "logoUrl": "https://1316604192-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaNWumH92fd1205exOOBs%2Fuploads%2FXSiIEgdYkh6VeKvvq7Ii%2FBounceBit%20Logo%20White%20(1).png?alt=media&token=bc9c4b9c-6e5a-4b57-a935-421d67106005",
+    "networkType": "MAINNET"
+  },
+  "234": {
+    "name": "zksync",
+    "symbol": "ZK",
+    "rpc": "",
+    "explorer": {
+      "tx": "https://explorer.zksync.io/tx/",
+      "address": "https://explorer.zksync.io/address/"
+    },
+    "explorer_cn": {
+      "tx": "https://explorer.zksync.io/tx/",
+      "address": "https://explorer.zksync.io/address/"
+    },
+    "logoUrl": "https://explorer.zksync.io/images/icons/zksync-arrows.svg",
+    "networkType": "MAINNET"
+  }
+}

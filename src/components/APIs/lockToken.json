@@ -1,0 +1,3806 @@
+[
+  {
+    "timestamp": 1695712197118,
+    "tvl": 337408327.2037872,
+    "amount": 337408327.2037872,
+    "tokenKey": "usd-coin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 272210328.893232,
+    "amount": 10150326102.957092,
+    "tokenKey": "duel-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 151592642.8521375,
+    "amount": 151634493.97247395,
+    "tokenKey": "tether"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 81401649.3177722,
+    "amount": 90795132.09394786,
+    "tokenKey": "mimatic"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 78261117.3634838,
+    "amount": 78261117.3634838,
+    "tokenKey": "magic-internet-money"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 63288005.14174745,
+    "amount": 63309720.37583637,
+    "tokenKey": "dai"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 48321723.45550634,
+    "amount": 30366.7658257281,
+    "tokenKey": "ethereum"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 42137338.68770141,
+    "amount": 1599.564920005368,
+    "tokenKey": "bitcoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 29043185.427341092,
+    "amount": 13322562.122633532,
+    "tokenKey": "anyswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 14089361.8121075,
+    "amount": 5418985.312349037,
+    "tokenKey": "multichain"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 14086665.684916906,
+    "amount": 13649869849725684,
+    "tokenKey": "baby-doge-coin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9357844.99332465,
+    "amount": 25703.422400430274,
+    "tokenKey": "beefy-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6970685.475315895,
+    "amount": 4874605.2274936335,
+    "tokenKey": "ice-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6383544.609684348,
+    "amount": 24314745.330901995,
+    "tokenKey": "polkastarter"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6012238.735804489,
+    "amount": 83894824.9582006,
+    "tokenKey": "media-licensing-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4058751.053053957,
+    "amount": 542613.7771462509,
+    "tokenKey": "chainlink"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3968255.094676958,
+    "amount": 1292591.2360511264,
+    "tokenKey": "grizzly-honey"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3313987.084927019,
+    "amount": 366731855.87924355,
+    "tokenKey": "redfox-labs-2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3287488.5779629573,
+    "amount": 15567.234482256636,
+    "tokenKey": "binancecoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3253127.3371797143,
+    "amount": 51393028.913248464,
+    "tokenKey": "parsiq"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2403267.070993792,
+    "amount": 4501115.453973655,
+    "tokenKey": "dextools"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2309927.1904509235,
+    "amount": 2321588.5296352822,
+    "tokenKey": "dola-usd"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2115557.0345303584,
+    "amount": 284193215.8883782,
+    "tokenKey": "saito"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2049991.9945411773,
+    "amount": 90290953.5837138,
+    "tokenKey": "space"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1992228.1447657964,
+    "amount": 128903754.13556354,
+    "tokenKey": "alchemy-pay"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1950595.2956634986,
+    "amount": 840958700.2588924,
+    "tokenKey": "betero"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1698869.7491565326,
+    "amount": 10138813.62104865,
+    "tokenKey": "woo-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1692135.4849254694,
+    "amount": 74413795.7463286,
+    "tokenKey": "xend-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1689518.097763652,
+    "amount": 1689518.097763652,
+    "tokenKey": "binance-usd"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1500895.0774557898,
+    "amount": 2383928.368278019,
+    "tokenKey": "pendle"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1274815.4380367582,
+    "amount": 20614738.6487186,
+    "tokenKey": "gains"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1273338.3150403444,
+    "amount": 112466343.25715485,
+    "tokenKey": "fabwelt"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1255430.912538047,
+    "amount": 84148562.22631256,
+    "tokenKey": "bit-store-coin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1204619.0899512966,
+    "amount": 10413914.016557708,
+    "tokenKey": "klay-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1197771.089132296,
+    "amount": 2296472.3606271376,
+    "tokenKey": "curve-dao-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1126257.0857091604,
+    "amount": 30181136.21070844,
+    "tokenKey": "nfraction"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 995391.2262958509,
+    "amount": 173111.51761666976,
+    "tokenKey": "frax-share"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 977587.2912893214,
+    "amount": 349590288.6193298,
+    "tokenKey": "dotmoovs"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 958997.4280952226,
+    "amount": 130339826.07200684,
+    "tokenKey": "openleverage"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 925914.2089602816,
+    "amount": 6070135.63329497,
+    "tokenKey": "derace"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 889657.158312622,
+    "amount": 14013217.797543151,
+    "tokenKey": "request-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 843400.619996906,
+    "amount": 10864784.417752922,
+    "tokenKey": "superfarm"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 832044.5543284391,
+    "amount": 60496975.991434835,
+    "tokenKey": "ridotto"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 793075.8652354943,
+    "amount": 151.0183461617768,
+    "tokenKey": "yearn-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 664427.8066324627,
+    "amount": 73825.3118480514,
+    "tokenKey": "avalanche-2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 641588.7069394,
+    "amount": 7210077.057250099,
+    "tokenKey": "trustswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 568837.7179734978,
+    "amount": 25117929.779265564,
+    "tokenKey": "dtravel"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 510305.3893430225,
+    "amount": 7641.590136912586,
+    "tokenKey": "sifu-vision"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 508984.32111807,
+    "amount": 1090135.6203,
+    "tokenKey": "concierge-io"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 503455.56474280515,
+    "amount": 324810.0417695517,
+    "tokenKey": "unidex"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 501638.05157707294,
+    "amount": 960354.0397036319,
+    "tokenKey": "matic-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 481882.4444415445,
+    "amount": 4404735.280678828,
+    "tokenKey": "bitbase-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 479347.34512269124,
+    "amount": 333231845.505458,
+    "tokenKey": "mogul-productions"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 474039.04993956635,
+    "amount": 4558593.779470384,
+    "tokenKey": "launchpool"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 472252.28255209443,
+    "amount": 472939.9372208135,
+    "tokenKey": "true-usd"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 471440.9573674319,
+    "amount": 25612520.542424966,
+    "tokenKey": "space-token-bsc"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 436928.9250197309,
+    "amount": 70244452.68254164,
+    "tokenKey": "revv"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 430706.02370311413,
+    "amount": 50139814.86864113,
+    "tokenKey": "dinox"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 424813.83773482917,
+    "amount": 126303379.1995187,
+    "tokenKey": "insure"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 407264.3757025908,
+    "amount": 995075194.7385428,
+    "tokenKey": "realfevr"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 404635.16066755285,
+    "amount": 284405555.94666123,
+    "tokenKey": "yel-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 404313.7051791195,
+    "amount": 346538762.66723764,
+    "tokenKey": "nfty-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 402739.2380330703,
+    "amount": 43710580.797335975,
+    "tokenKey": "jpyc"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 402159.63942171785,
+    "amount": 402389.00115237467,
+    "tokenKey": "frax"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 401390.73064564774,
+    "amount": 11275090.201277867,
+    "tokenKey": "exeedme"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 368227.6385884317,
+    "amount": 26801730.74277377,
+    "tokenKey": "scorum"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 352755.1915888489,
+    "amount": 139297890.359602,
+    "tokenKey": "bondly"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 338896.9855752516,
+    "amount": 687389.9346380503,
+    "tokenKey": "mettalex"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 320661.94988067885,
+    "amount": 3565049.583980153,
+    "tokenKey": "dextf"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 304967.06281733885,
+    "amount": 2992513618.068284,
+    "tokenKey": "topshelf-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 298750.0712857337,
+    "amount": 51514494.97455464,
+    "tokenKey": "cryptokek"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 296320.6565162149,
+    "amount": 5970283.971,
+    "tokenKey": "lunr-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 289849.6455645397,
+    "amount": 12989063.162485143,
+    "tokenKey": "orbs"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 284298.0505806057,
+    "amount": 1490578.5696041824,
+    "tokenKey": "fantom"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 283478.05388213403,
+    "amount": 2399895.479060743,
+    "tokenKey": "modefi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 256604.0610674842,
+    "amount": 433562.6612612726,
+    "tokenKey": "sushi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 245269.3341865294,
+    "amount": 32979384.861810718,
+    "tokenKey": "xana"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 243784.62105842686,
+    "amount": 3960.7574501775284,
+    "tokenKey": "aave"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 208311.81582399708,
+    "amount": 236199943.10659242,
+    "tokenKey": "unvest"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 180505.99154059586,
+    "amount": 2113059.4626872526,
+    "tokenKey": "asia-coin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 174528.32003627822,
+    "amount": 15123771233.646294,
+    "tokenKey": "hoge-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 171382.046245756,
+    "amount": 17234875.038667485,
+    "tokenKey": "naos-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 162923.26528588397,
+    "amount": 538313.4766842906,
+    "tokenKey": "spookyswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 150154.41670447608,
+    "amount": 287039.0195358116,
+    "tokenKey": "wmatic"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 148606.75212349335,
+    "amount": 38664232.81874254,
+    "tokenKey": "don-key"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 145900.59768985724,
+    "amount": 5762951.981647789,
+    "tokenKey": "piratep"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 140810.8037438892,
+    "amount": 21487925.22285743,
+    "tokenKey": "quidd"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 140328.87524279926,
+    "amount": 35151026.94594651,
+    "tokenKey": "virtue-poker"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 136588.78162084398,
+    "amount": 1367145.5901513794,
+    "tokenKey": "nasdex-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 133085.94847145982,
+    "amount": 9427466.96471232,
+    "tokenKey": "startfi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 130075.47702819311,
+    "amount": 61854401.72910802,
+    "tokenKey": "trusted-node"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 127519.52321473343,
+    "amount": 70452.7752567588,
+    "tokenKey": "million"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 124533.49884515883,
+    "amount": 30784585.35917031,
+    "tokenKey": "decentralized-mining-exchange"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 122413.19793080105,
+    "amount": 30151925.16301,
+    "tokenKey": "kardiachain"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 122317.63761519008,
+    "amount": 6623575.641925254,
+    "tokenKey": "apeswap-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 120025.29655,
+    "amount": 112911.85,
+    "tokenKey": "stasis-eurs"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 119864.67060208385,
+    "amount": 69285.93676421032,
+    "tokenKey": "decentralized-universal-basic-income"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 116440.77158886951,
+    "amount": 10833886.616076874,
+    "tokenKey": "crossing-the-yellow-blocks"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 114905.59532103132,
+    "amount": 2359927.856699,
+    "tokenKey": "onxrp"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 112157.81424356037,
+    "amount": 5730377.531922869,
+    "tokenKey": "ankr"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 112056.67088932883,
+    "amount": 263037653.7858943,
+    "tokenKey": "kaby-arena"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 109200.76245539982,
+    "amount": 862640.2172021251,
+    "tokenKey": "conflux-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 108965.60805394249,
+    "amount": 18927531.23662582,
+    "tokenKey": "acy-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 106772.3597527927,
+    "amount": 99549078.60892883,
+    "tokenKey": "tower"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 105121.20366560064,
+    "amount": 68251214.87693278,
+    "tokenKey": "somidax"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 96927.3969712,
+    "amount": 12000272,
+    "tokenKey": "risq-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 96890.71859596422,
+    "amount": 3152.968389064895,
+    "tokenKey": "beluga-fi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 93419.5531661626,
+    "amount": 2019665.1984892134,
+    "tokenKey": "liquidus"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 93044.3277197875,
+    "amount": 7469480.253021491,
+    "tokenKey": "mimo-parallel-governance-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 91571.32411830075,
+    "amount": 419628467.2271137,
+    "tokenKey": "tanks"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 90429.890440421,
+    "amount": 19608372.097753808,
+    "tokenKey": "swapsicle-pops"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 89270.65765237426,
+    "amount": 45086.19073352235,
+    "tokenKey": "havven"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 88438.9239699561,
+    "amount": 25771620.557504896,
+    "tokenKey": "coinspaid"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 87941.88625177045,
+    "amount": 934388.9653491979,
+    "tokenKey": "zeedex"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 87855.80032747524,
+    "amount": 19960966.86209217,
+    "tokenKey": "step-app-fitfi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 85341.08088879463,
+    "amount": 156505860.89749423,
+    "tokenKey": "hotbit-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 83656.23482660083,
+    "amount": 109628267.73591691,
+    "tokenKey": "stacktical"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 83013.91410917397,
+    "amount": 16062672189394.51,
+    "tokenKey": ""
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 79633.26170335381,
+    "amount": 11298895.796090994,
+    "tokenKey": "bit2me"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 77286.55139443211,
+    "amount": 89263994.1262989,
+    "tokenKey": "formation-fi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 76753.24933104978,
+    "amount": 87263233.12912114,
+    "tokenKey": "deapcoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 73860.498805,
+    "amount": 134135,
+    "tokenKey": "hillstone"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 68968.54742857329,
+    "amount": 14661493.992120272,
+    "tokenKey": "spintop"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 66904.25906841856,
+    "amount": 2047109.2486552682,
+    "tokenKey": "cirus"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 66717.91101867265,
+    "amount": 430682.6522068829,
+    "tokenKey": "sx-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 66085.3882124872,
+    "amount": 80993.64557198594,
+    "tokenKey": "arbitrum-iou"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 65908.63851350725,
+    "amount": 427170.9854334163,
+    "tokenKey": "mysterium"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 65210.234058673785,
+    "amount": 20517718.63001969,
+    "tokenKey": "unistake"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 63295.235056587604,
+    "amount": 49066454.04738611,
+    "tokenKey": "dope-wars-paper"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 63224.69472319112,
+    "amount": 35301139.98424973,
+    "tokenKey": "dose-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 59543.76011621717,
+    "amount": 977312.80760623,
+    "tokenKey": "chimaera"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 58733.49393106532,
+    "amount": 15215.931070224176,
+    "tokenKey": "toshify-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 57122.650114005,
+    "amount": 45698.120091204,
+    "tokenKey": "galaxygoggle"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 56788.33854119682,
+    "amount": 18487472.341618642,
+    "tokenKey": "primate"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 55906.09835388083,
+    "amount": 2495.807962226823,
+    "tokenKey": "harvest-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 53840.71140229709,
+    "amount": 9657699.941218155,
+    "tokenKey": "webchain"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 53530.82742206751,
+    "amount": 20404978.014220946,
+    "tokenKey": "savage"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 52275.292787737504,
+    "amount": 26099541.063915435,
+    "tokenKey": "upbots"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 49526.754674259035,
+    "amount": 1013512.0190645863,
+    "tokenKey": "dehive"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 48916.682827291464,
+    "amount": 460704.5040148756,
+    "tokenKey": "cyberfi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 48859.5275246232,
+    "amount": 565078.6737364621,
+    "tokenKey": "syscoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 48388.50525969268,
+    "amount": 16077090.438401705,
+    "tokenKey": "royale"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 47642.34723077717,
+    "amount": 983436.7445549243,
+    "tokenKey": "blockchain-certified-data-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 47580.82659392,
+    "amount": 61955008,
+    "tokenKey": "atari"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 46592.79673015714,
+    "amount": 156367408.56514797,
+    "tokenKey": "lympo-market-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 46520.81308137393,
+    "amount": 474876.61877193593,
+    "tokenKey": "font"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 46485.71693499486,
+    "amount": 408091.6243964082,
+    "tokenKey": "defi-kingdoms"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 45247.67974902177,
+    "amount": 3258381.6534,
+    "tokenKey": "smartchem"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 44210.40591370939,
+    "amount": 16435.09513520795,
+    "tokenKey": "badger-sett-badger"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 43481.499986384006,
+    "amount": 144136.45414803643,
+    "tokenKey": "the-sandbox"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 43373.6262704283,
+    "amount": 63232.57534999999,
+    "tokenKey": "shibonk-311f81df-a4ea-4f31-9e61-df0af8211bd7"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 43187.668384804965,
+    "amount": 203721.18260330468,
+    "tokenKey": "moda-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 43037.86785872842,
+    "amount": 7600533.310268367,
+    "tokenKey": "genesis-shards"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 42862.89759638938,
+    "amount": 419492.4308206207,
+    "tokenKey": "polytrade"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 42122.99621417442,
+    "amount": 6480460956.0268345,
+    "tokenKey": "dogemon-go"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 41007.21846216468,
+    "amount": 12883521.565783834,
+    "tokenKey": "gaia-everworld"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 40909.5345119841,
+    "amount": 3203651.03784941,
+    "tokenKey": "bittoken"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 40876.19499680562,
+    "amount": 327730.5672223341,
+    "tokenKey": "occamfi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 40724.50647847322,
+    "amount": 877308.393384319,
+    "tokenKey": "unilayer"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 40520.01408484843,
+    "amount": 31169.241603729562,
+    "tokenKey": "prime-numbers"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 39229.99506831782,
+    "amount": 54073791.60059797,
+    "tokenKey": "xnft"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 36432.304475784425,
+    "amount": 12162060.801712003,
+    "tokenKey": "metabrands"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 36109.66985441585,
+    "amount": 71432.157335,
+    "tokenKey": "ripple"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 35331.77023842873,
+    "amount": 40920248.58810642,
+    "tokenKey": "plasma-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 34552.65466508102,
+    "amount": 12812559.669339366,
+    "tokenKey": "collector-coin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 32125.2436519144,
+    "amount": 40226951.73042124,
+    "tokenKey": "simbcoin-swap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 31978.17701307213,
+    "amount": 1386.7379450595026,
+    "tokenKey": "pebble"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 31830.560273007613,
+    "amount": 16283115.720632905,
+    "tokenKey": "mochi-market"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 31773.69,
+    "amount": 3000000,
+    "tokenKey": "nebulas"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 30998.18688017859,
+    "amount": 3442273.2414427954,
+    "tokenKey": "carbon"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 29011.464618288308,
+    "amount": 12668.761842047295,
+    "tokenKey": "mvp"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 28377.29459167144,
+    "amount": 690543.076832345,
+    "tokenKey": "fuse-network-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 27606.606405015067,
+    "amount": 18747483.212804366,
+    "tokenKey": "colizeum"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 27591.450718704855,
+    "amount": 151534768.88568133,
+    "tokenKey": "centaurify"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 27309.951188061277,
+    "amount": 19249576.161821682,
+    "tokenKey": "hakka-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 26629.249107865748,
+    "amount": 55170715204.72735,
+    "tokenKey": "tiger-king"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 26614.25418941619,
+    "amount": 46547132.9195589,
+    "tokenKey": "madworld"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 25852.42446105436,
+    "amount": 7379280.712070732,
+    "tokenKey": "annex"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 25314.801440932228,
+    "amount": 14677970.08194693,
+    "tokenKey": "oh-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 25179.776273543313,
+    "amount": 57827380.45964521,
+    "tokenKey": "metafabric"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 24938.266446440295,
+    "amount": 7265569.019383081,
+    "tokenKey": "raze-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 24459.01991816754,
+    "amount": 50793329.563831754,
+    "tokenKey": "coreto"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 24410.06992703754,
+    "amount": 151207.73769489414,
+    "tokenKey": "kattana"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 24344.33015643538,
+    "amount": 4058159.4096937384,
+    "tokenKey": "xio"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 23707.836382360034,
+    "amount": 88419186.14985281,
+    "tokenKey": "wault"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 23381.196206330154,
+    "amount": 3002100.105072,
+    "tokenKey": "wrapped-velas"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 23282.530679036176,
+    "amount": 1161.8029280956175,
+    "tokenKey": "cream-2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 23136.884836019,
+    "amount": 2414521.3079429036,
+    "tokenKey": "harmony"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 22744.083295522083,
+    "amount": 2438094.692952994,
+    "tokenKey": "quadrant-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 22380.26855554246,
+    "amount": 39307073.70522237,
+    "tokenKey": "creator-platform"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 21225.880033041296,
+    "amount": 1194973.2715993396,
+    "tokenKey": "marginswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 21125.919765599603,
+    "amount": 11.550909141688411,
+    "tokenKey": "voucher-eth"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 21077.03888138489,
+    "amount": 21608832.242882222,
+    "tokenKey": "kampay"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 20933.341156720628,
+    "amount": 102433.15092762625,
+    "tokenKey": "fsn"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 20685.261324452225,
+    "amount": 7431011.669774909,
+    "tokenKey": "kwikswap-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 20327.365838463105,
+    "amount": 1497009.3373393605,
+    "tokenKey": "dfyn-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 19884.737539237525,
+    "amount": 325781.69862931536,
+    "tokenKey": "dogecoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 19272.05213981182,
+    "amount": 1767317.7449163452,
+    "tokenKey": "resource-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 18985.503026723673,
+    "amount": 4746.375756680918,
+    "tokenKey": "toad-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 18339.44030355837,
+    "amount": 11437416.775945999,
+    "tokenKey": "shard"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 17655.18166550352,
+    "amount": 12281352.893446898,
+    "tokenKey": "ksm-starter"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 17510.59925009888,
+    "amount": 199273.93538441003,
+    "tokenKey": "blocknet"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 17013.469220000003,
+    "amount": 50090,
+    "tokenKey": "onus"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 16668.741204463993,
+    "amount": 51899.08711878843,
+    "tokenKey": "ocean-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 16506.93742704819,
+    "amount": 2246333.880897474,
+    "tokenKey": "tetu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15816.913539917952,
+    "amount": 75471.01547848013,
+    "tokenKey": "dexkit"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15788.487823854779,
+    "amount": 465653.3138242021,
+    "tokenKey": "aladdin-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15580.978772988103,
+    "amount": 1498859.9349497273,
+    "tokenKey": "openocean"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15564.426836776176,
+    "amount": 3045876093.3025784,
+    "tokenKey": "immortl"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15522.98847072679,
+    "amount": 21341254.75442593,
+    "tokenKey": "wrapped-statera"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15197.73634033674,
+    "amount": 16810167.618282385,
+    "tokenKey": "starchi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15033.306235134138,
+    "amount": 2916076.2542643594,
+    "tokenKey": "woofy"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 14769.458842656566,
+    "amount": 16316418.478613952,
+    "tokenKey": "cre8r-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 14700.85841193441,
+    "amount": 3418.804281845211,
+    "tokenKey": "uniswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 14470.715299318683,
+    "amount": 1288755.63295691,
+    "tokenKey": "yieldwatch"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 14466.413150903842,
+    "amount": 266318.3569754021,
+    "tokenKey": "wowswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 13944.944931982263,
+    "amount": 4546874.213621525,
+    "tokenKey": "dao-invest"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 13662.845695732525,
+    "amount": 77339780.91097319,
+    "tokenKey": "bacondao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 12945.816601360002,
+    "amount": 185257822,
+    "tokenKey": "kekchain"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 11758.504070625002,
+    "amount": 48074345.11069546,
+    "tokenKey": "dragonbite"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 11491.910767524838,
+    "amount": 3908095.372797118,
+    "tokenKey": "dether"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 11369.835211510363,
+    "amount": 4879757601.506593,
+    "tokenKey": "pussy-financial"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 11165.035186264422,
+    "amount": 2978534.1299891747,
+    "tokenKey": "defidollar-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 10407.494258230394,
+    "amount": 11918.620380400193,
+    "tokenKey": "88mph"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 10251.88263643884,
+    "amount": 711666.454,
+    "tokenKey": "coinversation"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 10025.97016423655,
+    "amount": 787844.1063755016,
+    "tokenKey": "rentible"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 10018.57978264138,
+    "amount": 6345933.961666507,
+    "tokenKey": "westarter"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9908.738852507548,
+    "amount": 5405926.463772709,
+    "tokenKey": "blackhole-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9820.479558464289,
+    "amount": 668969997.170592,
+    "tokenKey": "colossuscoinxt"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9572.591232589657,
+    "amount": 5434464.156205452,
+    "tokenKey": "mimir-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9453.397834286312,
+    "amount": 13218392597964.557,
+    "tokenKey": "wall-street-games"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9267.933198078572,
+    "amount": 8784.770803865946,
+    "tokenKey": "band-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8581.983271642035,
+    "amount": 105140439964.25114,
+    "tokenKey": "akita-inu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8581.518,
+    "amount": 1100000,
+    "tokenKey": "cryptorewards"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8580.017951506243,
+    "amount": 204140327.18311307,
+    "tokenKey": "trodl"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8532.873543507238,
+    "amount": 8042.293631957811,
+    "tokenKey": "ageur"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8524.10680379001,
+    "amount": 4449046.84060566,
+    "tokenKey": "statera"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8338.397001244834,
+    "amount": 22005111.765352,
+    "tokenKey": "monnos"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8086.880641906274,
+    "amount": 16485670.163302224,
+    "tokenKey": "manufactory-2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 7989.867962304941,
+    "amount": 223305420.96995363,
+    "tokenKey": "butterswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 7938.644328538367,
+    "amount": 613496470520739.2,
+    "tokenKey": "archangel-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 7701.750372918689,
+    "amount": 181675.00663243042,
+    "tokenKey": "suku"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 7296.2520560788935,
+    "amount": 4559502.1066214815,
+    "tokenKey": "julswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 7290.95651918362,
+    "amount": 61812.387299887414,
+    "tokenKey": "xwin-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6714.909412571199,
+    "amount": 285267.04000000004,
+    "tokenKey": "planq"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6627.753303099394,
+    "amount": 2791585.0471526682,
+    "tokenKey": "polkarare"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6593.109409164808,
+    "amount": 903165672.4883299,
+    "tokenKey": "shiba-inu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6572.451828351411,
+    "amount": 228339.36666764214,
+    "tokenKey": "angle-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6479.76274483404,
+    "amount": 85631858.66042078,
+    "tokenKey": "defily"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6357.905887885563,
+    "amount": 190996.7603335362,
+    "tokenKey": "popcorn"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6331.426601732444,
+    "amount": 1084456.6437947163,
+    "tokenKey": "defire"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6259.322624221248,
+    "amount": 2515309.534786657,
+    "tokenKey": "argon"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6069.711702513984,
+    "amount": 1069273.863823,
+    "tokenKey": "kira-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6021.90970610757,
+    "amount": 3220.272570111,
+    "tokenKey": "robonomics-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6013.933810961184,
+    "amount": 59555692.32482851,
+    "tokenKey": "sleepfuture"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5927.236355131292,
+    "amount": 143234.51959582005,
+    "tokenKey": "mm-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5770.187184952799,
+    "amount": 89.16994568,
+    "tokenKey": "litecoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5641.727036945908,
+    "amount": 22688518.60751994,
+    "tokenKey": "portion"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5594.916201063962,
+    "amount": 1538954.7606714733,
+    "tokenKey": "playcent"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5491.8584048217635,
+    "amount": 7343038.380561256,
+    "tokenKey": "uniarts"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5254.837132122716,
+    "amount": 2129878.863538714,
+    "tokenKey": "fodl-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5205.548848258351,
+    "amount": 48301.94438446662,
+    "tokenKey": "nord-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4717.39050147575,
+    "amount": 140943845.2786301,
+    "tokenKey": "spiderdao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4684.550332090442,
+    "amount": 4393976.655839759,
+    "tokenKey": "vortex-defi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4679.510533144054,
+    "amount": 2.943977133439059,
+    "tokenKey": "weth"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4642.811866970914,
+    "amount": 1082142.1518721874,
+    "tokenKey": "pillar"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4517.310787281443,
+    "amount": 2285302.015137221,
+    "tokenKey": "aluna"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4471.611649023012,
+    "amount": 2224.68241244926,
+    "tokenKey": "badger-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4448.747496406589,
+    "amount": 175492997.88586152,
+    "tokenKey": "bao-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4431.02465472314,
+    "amount": 4126489.7138416283,
+    "tokenKey": "rocki"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4356.3087888250975,
+    "amount": 71673392.379485,
+    "tokenKey": "terra-luna"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4340.780156352008,
+    "amount": 72.23797897074401,
+    "tokenKey": "astrofarms"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4172.763771654369,
+    "amount": 73344.06291906507,
+    "tokenKey": "big-data-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4131.855273155302,
+    "amount": 2207765.533262072,
+    "tokenKey": "eleven-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4059.399954959071,
+    "amount": 9392.30215976,
+    "tokenKey": "koinos"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4018.8507077969466,
+    "amount": 824328.9044360238,
+    "tokenKey": "everipedia"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3670.1978011882293,
+    "amount": 78.42302993991945,
+    "tokenKey": "serene"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3598.1851706057596,
+    "amount": 16592.968275793217,
+    "tokenKey": "shiden"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3277.4500000000003,
+    "amount": 2979.5,
+    "tokenKey": "near"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3259.5440011923242,
+    "amount": 4874084.4877642235,
+    "tokenKey": "matrixswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3229.5661861318426,
+    "amount": 3441493.3464033613,
+    "tokenKey": "lepasa"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3198.7500379004264,
+    "amount": 3630.4340607636495,
+    "tokenKey": "sparkleswap-rewards"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3195.6762542012,
+    "amount": 4115275.78,
+    "tokenKey": "lympo"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3112.468155260404,
+    "amount": 999386.123485382,
+    "tokenKey": "helmet-insure"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3055.1724119774603,
+    "amount": 45138.101676552564,
+    "tokenKey": "telos"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3021.7367288081828,
+    "amount": 1137342.37997327,
+    "tokenKey": "cashbet-coin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3012.7235977939145,
+    "amount": 250259.88528306255,
+    "tokenKey": "dynamite"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2977.5907817226002,
+    "amount": 292.78178778,
+    "tokenKey": "aga-rewards-2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2936.7243291564714,
+    "amount": 188.9783995596185,
+    "tokenKey": "cover-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2897.5080430626285,
+    "amount": 115.90032172250514,
+    "tokenKey": "inverse-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2774.35319046461,
+    "amount": 29398.36592241907,
+    "tokenKey": "octopus-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2659.108042468433,
+    "amount": 96364.04641769463,
+    "tokenKey": "tempus"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2635.284325160178,
+    "amount": 708116.619775732,
+    "tokenKey": "bifi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2611.9849211519995,
+    "amount": 10384800.1,
+    "tokenKey": "zerohybrid"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2526.5645580916075,
+    "amount": 3946092.364301947,
+    "tokenKey": "polkapet-world"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2428.687449,
+    "amount": 220050,
+    "tokenKey": "eggplant-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2418.690458622983,
+    "amount": 14752610.299621731,
+    "tokenKey": "parachute"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2389.8939159808506,
+    "amount": 50155171.37420463,
+    "tokenKey": "manga-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2255.6461819786687,
+    "amount": 5437.598070455587,
+    "tokenKey": "premia"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2253.8109718623273,
+    "amount": 1534248449191.5095,
+    "tokenKey": "kounotori"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2251.345946172447,
+    "amount": 56574.6261,
+    "tokenKey": "aga-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2137.0463768178797,
+    "amount": 43615861722511.17,
+    "tokenKey": "ballswapper-accelerator-reflection-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2098.0880542011237,
+    "amount": 146106410.45968828,
+    "tokenKey": "bill-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2014.8983344965218,
+    "amount": 375792.57711531944,
+    "tokenKey": "knit-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2013.4804830424866,
+    "amount": 3196609.6447616797,
+    "tokenKey": "makiswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1990.6779235603992,
+    "amount": 698483481.9510174,
+    "tokenKey": "payrue"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1986.8938994603002,
+    "amount": 642199.27,
+    "tokenKey": "enjinstarter"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1959.0027416419086,
+    "amount": 1162288.7038285516,
+    "tokenKey": "cheesecakeswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1935.1568910735173,
+    "amount": 178580.9631584136,
+    "tokenKey": "sensitrust"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1858.403141990109,
+    "amount": 1407859.8369646738,
+    "tokenKey": "bta-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1831.827494437787,
+    "amount": 2555.6912657970925,
+    "tokenKey": "dao-maker"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1811.0435173877122,
+    "amount": 13034153681.197817,
+    "tokenKey": "lunachow"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1714.5175220185185,
+    "amount": 115.68944143174889,
+    "tokenKey": "pepemon-pepeballs"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1709.5348955116551,
+    "amount": 368.4342447223395,
+    "tokenKey": "axie-infinity"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1695.644090892524,
+    "amount": 266049.74274250737,
+    "tokenKey": "walletnow"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1686.231394947058,
+    "amount": 196208.48246084023,
+    "tokenKey": "bolt-true-dollar"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1563.5088324312574,
+    "amount": 7540796.915362483,
+    "tokenKey": "union-protocol-governance-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1556.9433107237303,
+    "amount": 496984.5666544508,
+    "tokenKey": "gaj"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1544.426414971502,
+    "amount": 282565.44230532827,
+    "tokenKey": "iris-token-2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1537.968624894428,
+    "amount": 2204688.462986035,
+    "tokenKey": "cardwallet"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1535.8535142616565,
+    "amount": 121310.077458,
+    "tokenKey": "terrausd"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1500.5948313447232,
+    "amount": 93774.16579354134,
+    "tokenKey": "metric-exchange"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1484.7757534479094,
+    "amount": 4980.914524822487,
+    "tokenKey": "decentraland"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1477.3118243839378,
+    "amount": 10061.7870674,
+    "tokenKey": "iqeon"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1451.1632956992905,
+    "amount": 594.7390556144634,
+    "tokenKey": "huobi-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1425.2032258376355,
+    "amount": 17817267.48140562,
+    "tokenKey": "meme-inu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1352.6286894636512,
+    "amount": 2067923.39009884,
+    "tokenKey": "kommunitas"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1289.1378499999998,
+    "amount": 1287.85,
+    "tokenKey": "gemini-dollar"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1262.4988594332558,
+    "amount": 1035871.0016846812,
+    "tokenKey": "auctus"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1259.391,
+    "amount": 100000,
+    "tokenKey": "scaleswap-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1253.1832193938103,
+    "amount": 6572.283072388439,
+    "tokenKey": "happiness-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1234.89188420224,
+    "amount": 20066491.456,
+    "tokenKey": "x-2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1233.1528928017228,
+    "amount": 27.042826596529007,
+    "tokenKey": "keep3rv1"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1205.6349740260355,
+    "amount": 1137391484.930222,
+    "tokenKey": "morphie"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1166.6120272230282,
+    "amount": 366.859128057556,
+    "tokenKey": "balancer"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1130.1691403554382,
+    "amount": 72926.37089804988,
+    "tokenKey": "grape-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1111.3765926601413,
+    "amount": 9288.48561783973,
+    "tokenKey": "pepedex"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1090.0131368742984,
+    "amount": 1590401.0051130021,
+    "tokenKey": "apron"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1062.083456864951,
+    "amount": 530143.1358172653,
+    "tokenKey": "cafeswap-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1008.9468833599999,
+    "amount": 869.781796,
+    "tokenKey": "tomoe"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 980.962100771452,
+    "amount": 16697227.247173652,
+    "tokenKey": "avaxlauncher"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 968.6818688154682,
+    "amount": 29456.97941,
+    "tokenKey": "clover-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 931.2719430530904,
+    "amount": 14735.315554637504,
+    "tokenKey": "ramp"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 912.9776097220591,
+    "amount": 23.23689513163805,
+    "tokenKey": "compound-governance-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 909.1114109478232,
+    "amount": 8370.7291581296,
+    "tokenKey": "bt-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 906.3409119990724,
+    "amount": 339.4535250932856,
+    "tokenKey": "rai"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 831.8117835260573,
+    "amount": 12568929.941463541,
+    "tokenKey": "polkaparty"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 804.7028014254229,
+    "amount": 187168.043947337,
+    "tokenKey": "superbid"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 773.7326956854813,
+    "amount": 269224.61426878226,
+    "tokenKey": "xbn"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 760.196853145,
+    "amount": 15078.185,
+    "tokenKey": "crypto-com-chain"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 737.575,
+    "amount": 407.5,
+    "tokenKey": "jumptoken"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 714.7728629540684,
+    "amount": 6946286.326084241,
+    "tokenKey": "srnartgallery-tokenized-arts"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 703.6303072399138,
+    "amount": 824676.29361702,
+    "tokenKey": "sukhavati-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 702.8301360480104,
+    "amount": 13141.924757816201,
+    "tokenKey": "ibuffer-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 675.1832528572013,
+    "amount": 1817989.856639116,
+    "tokenKey": "hero"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 672.1182427824957,
+    "amount": 109447686497.71954,
+    "tokenKey": "coin-of-the-champions"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 638.7318511441212,
+    "amount": 1201640.2053318054,
+    "tokenKey": "waterfall-governance-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 610.0503078947,
+    "amount": 4064021.77,
+    "tokenKey": "angelscreed"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 515.8827693747389,
+    "amount": 1864951.085874987,
+    "tokenKey": "swapfish"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 479.91619218220984,
+    "amount": 1760824327.769416,
+    "tokenKey": "scoobi-doge"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 467.4846437094902,
+    "amount": 5063.083694813176,
+    "tokenKey": "dibs-usd"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 453.9134334484273,
+    "amount": 45437.41688556469,
+    "tokenKey": "bscstarter"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 437.255287354587,
+    "amount": 106539.53241457131,
+    "tokenKey": "tycoon"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 414.10043831866676,
+    "amount": 37.13905276400599,
+    "tokenKey": "auto"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 404.39544278,
+    "amount": 32.455493,
+    "tokenKey": "alchemix"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 387.855,
+    "amount": 1500000,
+    "tokenKey": "blocsport-one"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 366.7034992019579,
+    "amount": 3819.191584756269,
+    "tokenKey": "the-grand-banks"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 350.79228,
+    "amount": 62000,
+    "tokenKey": "structure-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 346.86972,
+    "amount": 438000,
+    "tokenKey": "heidi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 336.0234728166258,
+    "amount": 686210.3267779484,
+    "tokenKey": "pera-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 331.727268194035,
+    "amount": 26086.0579,
+    "tokenKey": "wrapped-ust"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 327.1755364592412,
+    "amount": 1228657562927.3723,
+    "tokenKey": "feg-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 322.0009978895,
+    "amount": 146374.07,
+    "tokenKey": "buzzshow"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 315.4579683795624,
+    "amount": 9558.008735746667,
+    "tokenKey": "dibs-money"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 307.968085656,
+    "amount": 30948456000000,
+    "tokenKey": "metti-inu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 301.8578503635583,
+    "amount": 247424467.5111134,
+    "tokenKey": "umi-digital"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 298.63828243426326,
+    "amount": 493258.2624773112,
+    "tokenKey": "public-index-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 292.2514743594246,
+    "amount": 6271.295729197795,
+    "tokenKey": "start-vesting"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 287.10565105524,
+    "amount": 379.377958,
+    "tokenKey": "my-neighbor-alice"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 279.2105512029159,
+    "amount": 139612.25621426865,
+    "tokenKey": "cleardao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 278.17304879286166,
+    "amount": 19.784711862934685,
+    "tokenKey": "kittenfinance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 277.6590668724147,
+    "amount": 230560.2242604832,
+    "tokenKey": "hyperion"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 268.86299803326455,
+    "amount": 41750.922487458956,
+    "tokenKey": "zcore-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 268.49852409375745,
+    "amount": 4.274773508895995,
+    "tokenKey": "defipulse-index"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 257.23392473197333,
+    "amount": 4478.774327610358,
+    "tokenKey": "decentraweb"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 256.5909571953288,
+    "amount": 6461620.679811858,
+    "tokenKey": "cryptorpg"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 228.81889951058508,
+    "amount": 2734.157410299861,
+    "tokenKey": "definitex"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 228.7958821662698,
+    "amount": 7002.471481287173,
+    "tokenKey": "shabu-shabu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 219.950473691096,
+    "amount": 207.6963868660019,
+    "tokenKey": "par-stablecoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 216.197360523942,
+    "amount": 506518.662052672,
+    "tokenKey": "fastswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 210.67655780773907,
+    "amount": 1185.92803598,
+    "tokenKey": "realio-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 208.87985135,
+    "amount": 147845,
+    "tokenKey": "zilla"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 205.507167656,
+    "amount": 123678.8,
+    "tokenKey": "amp-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 188.51789932722423,
+    "amount": 1524855.6121267024,
+    "tokenKey": "yamp-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 186.45492720527025,
+    "amount": 20286.663511982933,
+    "tokenKey": "onx-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 180.88930333372556,
+    "amount": 1511441.3714382148,
+    "tokenKey": "honor-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 178.02589587896856,
+    "amount": 1316467.4693408902,
+    "tokenKey": "tako-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 168.795111996,
+    "amount": 2838.276,
+    "tokenKey": "basketcoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 159.54224,
+    "amount": 10.4962,
+    "tokenKey": "ethereum-classic"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 158.95188033,
+    "amount": 290.055,
+    "tokenKey": "nexo"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 158.11147762800002,
+    "amount": 2501.012,
+    "tokenKey": "0xmonero"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 154.41282175978546,
+    "amount": 6.139674821462643,
+    "tokenKey": "saffron-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 154.3811853460039,
+    "amount": 81974.1969351528,
+    "tokenKey": "basis-cash"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 152.35200508079998,
+    "amount": 63667.024,
+    "tokenKey": "magic-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 134.2976969044319,
+    "amount": 32333.543654507128,
+    "tokenKey": "razor-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 131.0547206,
+    "amount": 222466,
+    "tokenKey": "duet-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 126.825798,
+    "amount": 15884,
+    "tokenKey": "quark-chain"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 124.71320842515377,
+    "amount": 21.428386327346008,
+    "tokenKey": "billionhappiness"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 121.97227779720477,
+    "amount": 2913118.64813004,
+    "tokenKey": "bnpl-pay"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 114.93194477099999,
+    "amount": 115.161,
+    "tokenKey": "usdd"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 103.3282399758045,
+    "amount": 830212.437536594,
+    "tokenKey": "toolape"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 101.46570313181152,
+    "amount": 394194.6508617386,
+    "tokenKey": "jdi-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 98.65841162543089,
+    "amount": 218976682.85919634,
+    "tokenKey": "furukuru"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 97.57859391095562,
+    "amount": 9479.558512291702,
+    "tokenKey": "hegic"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 93.95371268380981,
+    "amount": 11744.96282685644,
+    "tokenKey": "ruler-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 91.09271008,
+    "amount": 104311,
+    "tokenKey": "paribus"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 90.59043409006988,
+    "amount": 1859027.992819,
+    "tokenKey": "meland-ai"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 86.2930868059257,
+    "amount": 5970.600346358935,
+    "tokenKey": "bishares"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 86.23515254610075,
+    "amount": 381037008.0290069,
+    "tokenKey": "green-shiba-inu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 80.07,
+    "amount": 51000000,
+    "tokenKey": "ballswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 78.41359016638106,
+    "amount": 13052.854928077095,
+    "tokenKey": "timechain-swap-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 73.0260405711,
+    "amount": 5505.91,
+    "tokenKey": "esportspro"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 69.2778,
+    "amount": 15000,
+    "tokenKey": "wirex"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 67.34444819399161,
+    "amount": 54.31003886612227,
+    "tokenKey": "honeyfarm-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 65.2266,
+    "amount": 12000,
+    "tokenKey": "selfkey"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 63.001149530000006,
+    "amount": 3509.96,
+    "tokenKey": "vision"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 58.81691880092069,
+    "amount": 58.94471093422609,
+    "tokenKey": "nusd"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 54.221346173092385,
+    "amount": 909143.966684983,
+    "tokenKey": "polyroll"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 51.75109009220182,
+    "amount": 165608.78777625467,
+    "tokenKey": "feeder-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 46.5610820150225,
+    "amount": 14805.454619608663,
+    "tokenKey": "timerr"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 44.1905134417,
+    "amount": 55691.33,
+    "tokenKey": "geodb"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 43.606974538,
+    "amount": 494.786,
+    "tokenKey": "airswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 42.920880000000004,
+    "amount": 1000,
+    "tokenKey": "nextexchange"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 42.690374999999996,
+    "amount": 675,
+    "tokenKey": "dragon-x"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 41.267444219999994,
+    "amount": 667434,
+    "tokenKey": "bitball"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 40.46902908944017,
+    "amount": 1899.906250707267,
+    "tokenKey": "polkamarkets"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 40.32915716236016,
+    "amount": 255923273.21069002,
+    "tokenKey": "bitrise-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 39.95061445145027,
+    "amount": 418.87931272818105,
+    "tokenKey": "basis-share"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 39.6375,
+    "amount": 50000,
+    "tokenKey": "crafting-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 39.230137093219575,
+    "amount": 1742.2158836072213,
+    "tokenKey": "polyplay"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 38.92690392,
+    "amount": 1614,
+    "tokenKey": "impossible-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 38.48392,
+    "amount": 8000,
+    "tokenKey": "morpheus-labs"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 38.13329254,
+    "amount": 45962,
+    "tokenKey": "attrace"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 35.80212488926159,
+    "amount": 79.38386893406118,
+    "tokenKey": "omisego"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 34.567351105,
+    "amount": 21948.5,
+    "tokenKey": "8pay"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 34.40734329240914,
+    "amount": 11101.220000002948,
+    "tokenKey": "decentr"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 31.46446462642829,
+    "amount": 326.61847973122974,
+    "tokenKey": "honeybee"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 29.7345,
+    "amount": 500,
+    "tokenKey": "bitball-treasure"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 26.96,
+    "amount": 8,
+    "tokenKey": "limitswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 26.795,
+    "amount": 50,
+    "tokenKey": "rangers-protocol-gas"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 25.963652216825025,
+    "amount": 91.22248415188383,
+    "tokenKey": "vesper-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 25.22,
+    "amount": 13,
+    "tokenKey": "route"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 24.868124558866995,
+    "amount": 497382386.47279876,
+    "tokenKey": "torg"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 24.3718199,
+    "amount": 33095,
+    "tokenKey": "bcpay-fintech"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 23.81544,
+    "amount": 6000,
+    "tokenKey": "utopia-genesis-foundation"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 22.53637884,
+    "amount": 5.075761,
+    "tokenKey": "sheesha-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 21.643983000000002,
+    "amount": 2.53146,
+    "tokenKey": "cocktailbar"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 21.4662238191123,
+    "amount": 178.18138203356992,
+    "tokenKey": "superlauncher-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 20.002716854250064,
+    "amount": 530154.1705340595,
+    "tokenKey": "digicol-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 18.8793,
+    "amount": 100,
+    "tokenKey": "max-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 17.751534323650002,
+    "amount": 286.52303,
+    "tokenKey": "governor-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 17.7429479535,
+    "amount": 442.134,
+    "tokenKey": "soar-2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 17.610239999999997,
+    "amount": 24000,
+    "tokenKey": "chartex"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 16.7418937456,
+    "amount": 120.5077,
+    "tokenKey": "celsius-degree-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 16.326787360745996,
+    "amount": 8422.0778,
+    "tokenKey": "marhabadefi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 16.0296506034,
+    "amount": 8296.62,
+    "tokenKey": "premio"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15.8422613586,
+    "amount": 76.3626,
+    "tokenKey": "brz"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 15.327280059,
+    "amount": 6939.66,
+    "tokenKey": "work-quest"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 13.536083953168156,
+    "amount": 13766.535761821042,
+    "tokenKey": "sishi-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 13.35532,
+    "amount": 1000,
+    "tokenKey": "daoventures"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 13.270281413528567,
+    "amount": 13312.749083103667,
+    "tokenKey": "unfederalreserve"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 12.352961081517158,
+    "amount": 3519.7030713850227,
+    "tokenKey": "bridge-mutual"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 11.572940411118186,
+    "amount": 1.8487125257377295,
+    "tokenKey": "yflink"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9.841245680999998,
+    "amount": 33.5198,
+    "tokenKey": "stake-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9.73191,
+    "amount": 1000,
+    "tokenKey": "constitutiondao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9.694115400000001,
+    "amount": 58.9,
+    "tokenKey": "guardian-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9.161296499999999,
+    "amount": 570,
+    "tokenKey": "lua-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 9.05520120187,
+    "amount": 199002290000,
+    "tokenKey": "meta-shiba"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8.888317445899164,
+    "amount": 10000.357162352793,
+    "tokenKey": "mixmarvel"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8.82788776452,
+    "amount": 3036.132,
+    "tokenKey": "xsigma"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8.555712,
+    "amount": 1200,
+    "tokenKey": "videocoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8.53484,
+    "amount": 2000,
+    "tokenKey": "levolution"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8.458476915,
+    "amount": 320579000,
+    "tokenKey": "iron-titanium-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8.302729660295332,
+    "amount": 3054.7989316484727,
+    "tokenKey": "project-inverse"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 8.03035908,
+    "amount": 2.00758977,
+    "tokenKey": "zlot"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 7.77462721706,
+    "amount": 2465.842,
+    "tokenKey": "armor"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 7.754061150554152,
+    "amount": 14713.309331045242,
+    "tokenKey": "spiritswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 7.4267946,
+    "amount": 636,
+    "tokenKey": "meld"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6.466367714591291,
+    "amount": 26414.900794899066,
+    "tokenKey": "impactmarket"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 6.2531907758307,
+    "amount": 110509689.42,
+    "tokenKey": "multiverse-capital"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5.911709519400833,
+    "amount": 3095.411381851177,
+    "tokenKey": "skyrim-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5.8942275,
+    "amount": 950,
+    "tokenKey": "dragonchain"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5.882235600606437,
+    "amount": 33252507691.56135,
+    "tokenKey": "kishu-inu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5.58083332911,
+    "amount": 1027777777,
+    "tokenKey": "kuma-inu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 5.173182,
+    "amount": 6,
+    "tokenKey": "rari-governance-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4.820153892136478,
+    "amount": 1573157275.5014615,
+    "tokenKey": "dogeking"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4.7837843748836395,
+    "amount": 17.73164253,
+    "tokenKey": "lien"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4.763664,
+    "amount": 1200,
+    "tokenKey": "amy-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4.74924978682,
+    "amount": 3203.606,
+    "tokenKey": "unit-protocol-duck"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4.6676448,
+    "amount": 480,
+    "tokenKey": "etha-lend"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4.656577228594846,
+    "amount": 154.17746383006178,
+    "tokenKey": "my-defi-pet"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4.286121802071662,
+    "amount": 14499.244958126119,
+    "tokenKey": "iotexchart"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 4.148023455298195,
+    "amount": 71.9281321905737,
+    "tokenKey": "unizen"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3.9132938879999997,
+    "amount": 555.2,
+    "tokenKey": "snook"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3.7098153091315513,
+    "amount": 21798848.946619846,
+    "tokenKey": "pkg-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 3.069726,
+    "amount": 100,
+    "tokenKey": "tranche-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.555168,
+    "amount": 30800,
+    "tokenKey": "adbank"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.54,
+    "amount": 2,
+    "tokenKey": "optimism"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.4860511400008805,
+    "amount": 8201.000000002905,
+    "tokenKey": "suterusu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.43194682,
+    "amount": 73,
+    "tokenKey": "stablegaj"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.4081218393969905,
+    "amount": 9130.665956612538,
+    "tokenKey": "foundrydao-logistics"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.383041,
+    "amount": 47,
+    "tokenKey": "aurora-near"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.202816,
+    "amount": 2200,
+    "tokenKey": "phoenix-defi-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.1798519318080003,
+    "amount": 1948.2272,
+    "tokenKey": "kogecoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.088576966,
+    "amount": 44007.1,
+    "tokenKey": "crd-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 2.009652286284,
+    "amount": 391.7932,
+    "tokenKey": "meeb-master"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.9778241518869997,
+    "amount": 493.8893,
+    "tokenKey": "stone-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.838489,
+    "amount": 50,
+    "tokenKey": "equos-origin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.72475649347,
+    "amount": 1529.053,
+    "tokenKey": "pinknode"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.5209902534166135,
+    "amount": 143.04660691618446,
+    "tokenKey": "zeroswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.3696831569275474,
+    "amount": 484.51429716,
+    "tokenKey": "fortress"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.3670805000000001,
+    "amount": 30,
+    "tokenKey": "qredo"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.3184091399007978,
+    "amount": 180110.5382378139,
+    "tokenKey": "fera"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.2442954,
+    "amount": 2.3,
+    "tokenKey": "landshare"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.2348,
+    "amount": 0.105,
+    "tokenKey": "reflexer-ungovernance-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.229865,
+    "amount": 5,
+    "tokenKey": "cardano"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.11757,
+    "amount": 0.989,
+    "tokenKey": "piedao-balanced-crypto-pie"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 1.0158644822556882,
+    "amount": 66.51070024,
+    "tokenKey": "titanswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.87512907,
+    "amount": 930000000000,
+    "tokenKey": "piratecoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.8200306799999999,
+    "amount": 4122,
+    "tokenKey": "starbase"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.77455,
+    "amount": 2500,
+    "tokenKey": "anypad"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.56416548,
+    "amount": 12,
+    "tokenKey": "nav-coin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.5573618346209984,
+    "amount": 127484408.65073156,
+    "tokenKey": "safemoon"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.5425340000000001,
+    "amount": 12200000000,
+    "tokenKey": "refugees-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.4842256965,
+    "amount": 17.85,
+    "tokenKey": "faraland"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.39604827000000004,
+    "amount": 6969,
+    "tokenKey": "justyours"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.37298846651965684,
+    "amount": 7257432.122809216,
+    "tokenKey": "simple-cool-automatic-money"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.32273769539999997,
+    "amount": 3012.58,
+    "tokenKey": "aetherv2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.2931055885085,
+    "amount": 6.00001,
+    "tokenKey": "defycoinv2"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.25658343,
+    "amount": 9409,
+    "tokenKey": "dexit-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.20165254999999999,
+    "amount": 121,
+    "tokenKey": "yield-parrot"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.200957526,
+    "amount": 6.86,
+    "tokenKey": "bogecoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.164224,
+    "amount": 1,
+    "tokenKey": "boosted-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.1330809528,
+    "amount": 3021.82,
+    "tokenKey": "totem-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.101978734,
+    "amount": 2212.6,
+    "tokenKey": "outrace"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.08890391268,
+    "amount": 41.3622,
+    "tokenKey": "stabilize-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.073316,
+    "amount": 1,
+    "tokenKey": "vox-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0666885,
+    "amount": 230,
+    "tokenKey": "smaugs-nft"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.038298352189423804,
+    "amount": 9598.58450862752,
+    "tokenKey": "twin-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.035487750054871946,
+    "amount": 12.25350728554034,
+    "tokenKey": "strudel-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0254534,
+    "amount": 0.1,
+    "tokenKey": "secret-erc20"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.019033,
+    "amount": 100,
+    "tokenKey": "augmented-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0180913796,
+    "amount": 1.19,
+    "tokenKey": "unifty"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.017084312,
+    "amount": 9.4,
+    "tokenKey": "multiplier-bsc"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.01576899300000002,
+    "amount": 105450.00000000013,
+    "tokenKey": "shar-pei"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.007410027140162354,
+    "amount": 8383.41734463,
+    "tokenKey": "onion-mixer"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.004020818372852457,
+    "amount": 83.04044553598631,
+    "tokenKey": "badger-sett-digg"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0031745277,
+    "amount": 8100,
+    "tokenKey": "xmooney"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0026997530421378683,
+    "amount": 19473258189.52725,
+    "tokenKey": "shiba-fantom"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0020572251351716735,
+    "amount": 1185037520260.1807,
+    "tokenKey": "peppa-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0020009999999999997,
+    "amount": 300,
+    "tokenKey": "battleroyaletoken"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0002837055831278127,
+    "amount": 0.000070398407724023,
+    "tokenKey": "moonriver"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.00009673132891747918,
+    "amount": 29.85534843132074,
+    "tokenKey": "degen-index"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0000394342,
+    "amount": 15080,
+    "tokenKey": "wakanda-inu"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0.0000022896572005656444,
+    "amount": 0.000062077887164157,
+    "tokenKey": "bifrost"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "investin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "loud-market"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 86,
+    "tokenKey": "rango-exchange"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "enq-enecuum"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 1501213197.916881,
+    "tokenKey": "undefined"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "bitscreener"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "ethichub"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "lunch-money"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "unipower"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "showcase-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "triumphx"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "ureeqa"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "the-abyss"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "basis-bond"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 77996.59740435611,
+    "tokenKey": "bet-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "eddaswap"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "lixir-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "ormeuscoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "moeda-loyalty-points"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 6000,
+    "tokenKey": "restart-energy"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "myth-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "prime-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 35383768.14720522,
+    "tokenKey": "polars-governance-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "xdai-stake"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "standard-protocol"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "stater"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 20317823.12548901,
+    "tokenKey": "vera-defi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "intelligent-mining"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "kesef-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "neon-exchange"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "yfdai-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "iexec-rlc"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "metasoccer"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "universe-crystal-gene"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "grok"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "bishu-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "leo-toke"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "octofi"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "shardus"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "wolves-of-wall-street"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 200,
+    "tokenKey": "melodity"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "yield-yak"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "arianee"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "axis-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "0chain"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 2735084.87490019,
+    "tokenKey": "bitcashpay"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "stronghands"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "make-a-difference-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "graviton-zero"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "force-dao"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 3942.36,
+    "tokenKey": "stackos"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "unbanked"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "shibaverse"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "sperax"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "crust-network"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "mcn-ventures"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 1332717.075924843,
+    "tokenKey": "kaco-finance"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "e-radix"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "null"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "elysiant-token"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 19914393.86762587,
+    "tokenKey": "waru"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "palmare"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "defihorse"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "https://mandala.exchange/wp-content/uploads/2022/07/logo-200x200-1.png"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "starship"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "public-mint"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "casinocoin"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "helio-protocol-hay"
+  },
+  {
+    "timestamp": 1695712197118,
+    "tvl": 0,
+    "amount": 0,
+    "tokenKey": "coreum"
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "arbitrum-iou": {
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "logoUrl": "https://assets.coingecko.com/coins/images/29463/large/arb.jpeg"
+  },
+  "aurora-near": {
+    "name": "Aurora",
+    "symbol": "AURORA",
+    "logoUrl": "data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 288 288' style='enable-background:new 0 0 288 288;' xml:space='preserve'%3E %3Cstyle type='text/css'%3E .st0%7Bfill:%2370D44B;%7D .st1%7Bfill:%23FFFFFF;%7D %3C/style%3E %3Cpath class='st0' d='M144,0L144,0c79.5,0,144,64.5,144,144v0c0,79.5-64.5,144-144,144h0C64.5,288,0,223.5,0,144v0 C0,64.5,64.5,0,144,0z'/%3E %3Cpath class='st1' d='M144,58.8c7.6,0,14.5,4.3,17.9,11.1l56.2,112.5c4.9,9.9,0.9,21.9-9,26.8c-2.8,1.4-5.8,2.1-8.9,2.1H87.8 c-11,0-20-9-20-20c0-3.1,0.7-6.2,2.1-8.9l56.2-112.5C129.5,63,136.4,58.7,144,58.8 M144,45c-12.8,0-24.5,7.2-30.2,18.7L57.6,176.2 c-8.3,16.7-1.6,36.9,15.1,45.3c4.7,2.3,9.9,3.6,15.1,3.6h112.5c18.6,0,33.8-15.1,33.8-33.7c0-5.2-1.2-10.4-3.6-15.1L174.2,63.7 C168.5,52.2,156.8,45,144,45z'/%3E %3C/svg%3E"
+  },
+  "Avalanche": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "logoUrl": "https://assets.coingecko.com/coins/images/12559/st…rd/Avalanche_Circle_RedWhite_Trans.png?1696512369"
+  },
+  "Celo": {
+    "name": "Celo",
+    "symbol": "CELO",
+    "logoUrl": "https://assets.coingecko.com/coins/images/11090/standard/InjXBNx9_400x400.jpg?1696511031"
+  },
+
+  "binancecoin": {
+    "name": "Binance",
+    "symbol": "BNB",
+    "logoUrl": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
+  },
+  "ethereum-classic": {
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "logoUrl": "https://assets.coingecko.com/coins/images/453/large/ethereum-classic-logo.png"
+  },
+  "ethereum": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "logoUrl": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+  },
+  "fantom": {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "logoUrl": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png"
+  },
+  "Moonbeans": {
+    "name": "Moon-beans",
+    "symbol": "BEANS",
+    "logoUrl": "https://assets.coingecko.com/coins/images/18547/standard/200_MB_DarkVersion_logo.png?1696518026"
+  },
+
+  "matic-network": {
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "logoUrl": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+  },
+  "optimism": {
+    "name": "Optimism",
+    "symbol": "OP",
+    "logoUrl": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png"
+  },
+  "fsn": {
+    "name": "Fusion",
+    "symbol": "FSN",
+    "logoUrl": "https://assets.coingecko.com/coins/images/2515/large/Fusion_200x200.png"
+  },
+  "evmos": {
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "logoUrl": "https://assets.coingecko.com/coins/images/24023/standard/evmos.png?1696523216"
+  },
+  "iotex": {
+    "name": "IoTex",
+    "symbol": "IOTEX",
+    "logoUrl": "https://assets.coingecko.com/coins/images/3334/standard/iotex-logo.png?1696504041"
+  },
+  "cronos": {
+    "name": "Cronos",
+    "symbol": "CRO",
+    "logoUrl": "https://assets.coingecko.com/coins/images/7310/standard/cro_token_logo.png?1696507599"
+  },
+  "blast": {
+    "name": "Blast",
+    "symbol": "BLAST",
+    "logoUrl": "https://assets.coingecko.com/coins/images/35494/standard/Blast.jpg?1719385662"
+  },
+  "telos": {
+    "name": "pTokens TLOS",
+    "symbol": "TLOS",
+    "logoUrl": "https://assets.coingecko.com/coins/images/7588/large/TLOS_200.png"
+  },
+  "hedera": {
+    "name": "Hedera",
+    "symbol": "HBAR",
+    "logoUrl": "https://assets.coingecko.com/coins/images/3688/standard/hbar.png?1696504364"
+  },
+  "mantle": {
+    "name": "Mantle",
+    "symbol": "MNT",
+    "logoUrl": "https://assets.coingecko.com/coins/images/30980/standard/token-logo.png?1696529819"
+  },
+  "air-dao": {
+    "name": "AirDAO",
+    "symbol": "AMB",
+    "logoUrl": "https://assets.coingecko.com/coins/images/1041/standard/amb.png?1696502148"
+  },
+  "chiliz": {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "logoUrl": "https://assets.coingecko.com/coins/images/8834/standard/CHZ_Token_updated.png?1696508986"
+  },
+  "conflux-token": {
+    "name": "Conflux",
+    "symbol": "CFX",
+    "logoUrl": "https://assets.coingecko.com/coins/images/13079/large/3vuYMbjN.png"
+  },
+  "coreum": {
+    "name": "Coreum",
+    "symbol": "CORE",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1573384248828231682/cjyZbF1__400x400.jpg"
+  },
+  "ethereumPOW": {
+    "name": "EthereumPOW",
+    "symbol": "ETHW",
+    "logoUrl": "https://assets.coingecko.com/coins/images/26997/standard/logo-clear.png?1696526049"
+  },
+  "flare": {
+    "name": "Flare",
+    "symbol": "FLR",
+    "logoUrl": "https://assets.coingecko.com/coins/images/28624/standard/FLR-icon200x200.png?1696527609"
+  },
+  "klay-token": {
+    "name": "Klaytn",
+    "symbol": "KLAY",
+    "logoUrl": "https://assets.coingecko.com/coins/images/9672/large/klaytn.png"
+  },
+  "moonriver": {
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "logoUrl": "https://assets.coingecko.com/coins/images/17984/large/9285.png"
+  },
+  "energi": {
+    "name": "Energi",
+    "symbol": "NRG",
+    "logoUrl": "https://assets.coingecko.com/coins/images/5795/standard/3218.png?1696506239"
+  },
+  "theta": {
+    "name": "Theta",
+    "symbol": "THETA",
+    "logoUrl": "https://assets.coingecko.com/coins/images/2538/standard/theta-token-logo.png?1696503349"
+  },
+  "base-chain": {
+    "name": "Base",
+    "symbol": "ETH",
+    "logoUrl": "https://assets.coingecko.com/nft_contracts/images/2989/small_2x/base-introduced.png?1707289780"
+  },
+  "okx-chain": {
+    "name": "OkxChain",
+    "symbol": "OKT",
+    "logoUrl": "https://assets.coingecko.com/markets/images/96/large/WeChat_Image_20220117220452.png?1706864283"
+  }
+}

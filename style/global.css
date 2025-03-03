@@ -1,0 +1,214 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+.nav-bar {
+  background-color: #ffffff;
+}
+body {
+  font-family: "Inter" !important;
+}
+.nav-bar > div {
+  padding: 0px;
+  width: 100%;
+  max-width: 1280px;
+}
+.header-links {
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 150% */
+}
+.footer-desc p {
+  color: #475467;
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+.logo {
+  padding-left: auto;
+}
+.bottom-navigation {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  align-items: center;
+}
+.footer-img img {
+  width: 122px;
+}
+.footer-main {
+  width: 100%;
+  max-width: 1280px;
+}
+.copyright-main {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid var(--Gray-200, #eaecf0);
+}
+.footer {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center;
+  max-width: 100% !important;
+}
+.copyright {
+  color: #667085;
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+.copyright img {
+  margin-left: 24px;
+}
+.table-pagination > div > div {
+  margin-right: 0px;
+}
+.copyright img:hover {
+  filter: brightness(0) saturate(100%) invert(36%) sepia(94%) saturate(3411%)
+    hue-rotate(200deg) brightness(101%) contrast(96%);
+}
+.copyright {
+  display: flex;
+  align-items: center;
+}
+.table-nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+#tableTitle span {
+  background-color: #d4e8ff;
+  font-family: "Inter";
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #298dfe;
+  padding: 2px 8px 2px 8px;
+  border-radius: 16px;
+}
+.token-searchbar {
+  border-radius: var(--S, 8px);
+  border: 1px solid var(--Gray-300, #d0d5dd);
+  background: var(--Color-Neutral-white, #fff);
+  padding: 10px 14px;
+}
+.token-searchbar .MuiInput-root:before {
+  content: "" !important;
+  border-bottom: 0px !important;
+}
+.token-name-logo {
+  display: flex !important;
+  justify-content: left;
+  align-items: center;
+}
+.table-row span {
+  display: flex;
+}
+.back-btn {
+  display: flex;
+  align-items: center;
+}
+.back-btn > svg {
+  margin-right: 5px;
+}
+.token-id {
+  margin-left: 6px;
+}
+.token-logo {
+  width: 25px;
+  border-radius: 100%;
+}
+.minus-margin {
+  margin-left: -10px;
+}
+.table-head th {
+  border-bottom: 1px solid var(--Gray-200, #eaecf0) !important;
+  background: var(--Gray-50, #f9fafb) !important;
+  padding: 12px 24px !important;
+  color: var(--Gray-600, #475467);
+  font-family: "Inter";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px; /* 150% */
+}
+.table-row td {
+  color: var(--Color-Neutral-black, #000);
+  font-family: "Inter";
+  background-color: #ffffff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 142.857% */
+  /* padding: 16px 24px !important; */
+}
+.table-row {
+  background-color: #ffffff;
+}
+.table-header {
+  display: flex;
+}
+.main-div > div {
+  width: 100% !important;
+  max-width: 1280px;
+  padding: 0px;
+}
+.launchapp {
+  border-radius: 8px;
+  border: 1px solid #298dfe;
+  padding: 10px 24px;
+  background-color: transparent;
+  color: #298dfe;
+}
+.launchapp:hover {
+  color: #ffffff;
+  background-color: #298dfe;
+}
+@media only screen and (max-width: 600px) {
+  .mobile-td td {
+    min-width: 130px;
+  }
+  .mobile-td th {
+    min-width: 150px;
+  }
+  .table-head th {
+    min-width: 160px;
+    background-color: #ffffff;
+  }
+  .copyright-main {
+    display: block;
+  }
+  .table-header {
+    display: block;
+  }
+  .first-icon {
+    margin: 0px !important;
+  }
+  .copyright {
+    justify-content: center;
+  }
+  .logo {
+    padding-left: 16px;
+  }
+}
+@media only screen and (max-width: 955px) {
+  .mobile-td td {
+    min-width: 130px;
+  }
+  .mobile-td th {
+    min-width: 150px;
+  }
+  .table-head th {
+    min-width: 160px;
+    background-color: #ffffff;
+  }
+  .footer-main {
+    margin-bottom: 60px;
+    padding: 0px 20px;
+  }
+}

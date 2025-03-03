@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 23</title>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7C42EB" offset="0%"></stop>
+            <stop stop-color="#5843FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#7C42EB" offset="0%"></stop>
+            <stop stop-color="#5843FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#7C42EB" offset="0%"></stop>
+            <stop stop-color="#5843FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#7C42EB" offset="0%"></stop>
+            <stop stop-color="#5843FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#7C42EB" offset="0%"></stop>
+            <stop stop-color="#5843FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#7C42EB" offset="0%"></stop>
+            <stop stop-color="#5843FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-白天-统计" transform="translate(-851.000000, -113.000000)">
+            <g id="编组-23" transform="translate(851.000000, 113.000000)">
+                <g id="编组-18" transform="translate(1.000000, 3.000000)">
+                    <ellipse id="椭圆形" fill="#6642F7" fill-rule="nonzero" opacity="0.5" cx="35.0769231" cy="8.07575758" rx="6.76923077" ry="6.83333333"></ellipse>
+                    <ellipse id="椭圆形" fill="url(#linearGradient-1)" cx="33.8461538" cy="8.07575758" rx="6.76923077" ry="6.83333333"></ellipse>
+                    <ellipse id="椭圆形备份" fill="#6642F7" fill-rule="nonzero" opacity="0.5" cx="28.3076923" cy="21.1212121" rx="4.92307692" ry="4.96969697"></ellipse>
+                    <ellipse id="椭圆形备份-3" fill="#6642F7" fill-rule="nonzero" opacity="0.5" cx="40.3076923" cy="19.8787879" rx="3.69230769" ry="3.72727273"></ellipse>
+                    <ellipse id="椭圆形备份-6" fill="#6642F7" fill-rule="nonzero" opacity="0.5" cx="23.0769231" cy="12.4242424" rx="2.46153846" ry="2.48484848"></ellipse>
+                    <ellipse id="椭圆形备份-8" fill="#6642F7" fill-rule="nonzero" opacity="0.5" cx="27.3846154" cy="31.6818182" rx="1.84615385" ry="1.86363636"></ellipse>
+                    <ellipse id="椭圆形备份-10" fill="#6642F7" fill-rule="nonzero" opacity="0.5" cx="19.3846154" cy="27.3333333" rx="1.23076923" ry="1.24242424"></ellipse>
+                    <ellipse id="椭圆形备份" fill="url(#linearGradient-2)" cx="27.0769231" cy="21.1212121" rx="4.92307692" ry="4.96969697"></ellipse>
+                    <ellipse id="椭圆形备份-5" fill="url(#linearGradient-3)" cx="39.3846154" cy="19.8787879" rx="3.69230769" ry="3.72727273"></ellipse>
+                    <ellipse id="椭圆形备份-7" fill="url(#linearGradient-4)" cx="22.4615385" cy="12.4242424" rx="2.46153846" ry="2.48484848"></ellipse>
+                    <ellipse id="椭圆形备份-9" fill="url(#linearGradient-5)" cx="26.9230769" cy="31.6818182" rx="1.84615385" ry="1.86363636"></ellipse>
+                    <ellipse id="椭圆形备份-11" fill="url(#linearGradient-6)" cx="19.0769231" cy="27.3333333" rx="1.23076923" ry="1.24242424"></ellipse>
+                    <path d="M20.3076923,0 C9.09206354,0 0,9.17816263 0,20.5 C0,31.8218374 9.09206354,41 20.3076923,41 C25.0515329,41 29.4154654,39.358017 32.8721888,36.6063452 C33.5004229,36.1062492 34.0986914,35.5694997 34.6638291,34.9992921 M36.8906332,32.3360305 C37.0076455,32.1692737 37.1222515,32.0006749 37.2344001,31.8302855" id="形状" stroke="#BAA0F6" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+                <rect id="矩形" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="45" height="45"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
